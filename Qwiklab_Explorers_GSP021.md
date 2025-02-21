@@ -12,11 +12,11 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Orchestrating%20the%20Cloud%20with%20Kubernetes/gsp021.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Orchestrating-the-Cloud-with-Kubernetes-GSP021/refs/heads/main/qwiklab_explorers_gsp021.sh
 
-sudo chmod +x gsp021.sh
+sudo chmod +x qwiklab_explorers_gsp021.sh
 
-./gsp021.sh
+./qwiklab_explorers_gsp021.sh
 ```
 ---
 
